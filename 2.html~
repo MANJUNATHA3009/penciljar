@@ -1,0 +1,25 @@
+<html>
+     <head>
+           <title>
+                 A HTML CODE
+            </title>		 
+     </head>
+<body>
+<!--this is comment--!>
+	<h1 style='background-color:yellow;'>	HELLO WORD!!  </h1>> <br>  
+	<h2> Myself MANJUNATHA M </h2> <br>
+	<h3> I'M VERY BAD </h3>
+	<hr>
+	<p style='color:green;'>
+	hello I am not going to clg, 
+	because of this lockdown
+	hello I am not going to clg, 
+	because of this lockdown
+	</p>
+	<pre>
+	hello world!!
+
+	this will not need line break
+	</pre>
+</body>
+</html>
